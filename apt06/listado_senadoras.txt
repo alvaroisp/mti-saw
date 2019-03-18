@@ -1,0 +1,20 @@
+senadora	url wikidata
+Adriana Muñoz D'Albora	http://www.wikidata.org/entity/Q5658359
+Carmen Frei Ruiz-Tagle	http://www.wikidata.org/entity/Q5043474
+Carmen Gloria Aravena Acuña	http://www.wikidata.org/entity/Q50589883
+Carolina Goic Boroevic	http://www.wikidata.org/entity/Q5044837
+Ena Anglein von Baer Jahn	http://www.wikidata.org/entity/Q522073
+Evelyn Matthei Fornet	http://www.wikidata.org/entity/Q8846905
+Jacqueline Van Rysselberghe Herrera	http://www.wikidata.org/entity/Q5681251
+Julieta Campusano Chávez	http://www.wikidata.org/entity/Q6308939
+Laura Soto González	http://www.wikidata.org/entity/Q5971703
+Lily Jovanka Pérez San Martín	https://www.wikidata.org/wiki/Q5976459
+Luz Eliana Ebensperger Orrego	https://www.wikidata.org/wiki/Q16298935
+María De la Cruz Toledo	http://www.wikidata.org/entity/Q6782162
+María Elena Carrera Villavicencio	http://www.wikidata.org/entity/Q6003663
+María Isabel Allende Bussi	http://www.wikidata.org/entity/Q451359
+María Soledad Alvear Valenzuela	http://www.wikidata.org/entity/Q434756
+Olga Feliú Segovia	http://www.wikidata.org/entity/Q6049803
+Ximena Órdenes Neira	http://www.wikidata.org/entity/Q50707470
+Ximena Rincón González	http://www.wikidata.org/entity/Q6169262
+Yasna Provoste Campillay	https://www.wikidata.org/wiki/Q3571936
